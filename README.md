@@ -1,4 +1,4 @@
-# EncryptedNotepad
+# CodeMemo
 
 Screenshots :
 
